@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.6",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "Generate QR code for any typed url",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaid Bin Zahoor",
+  "license": "ISC",
+  "keywords": []
+}
